@@ -81,7 +81,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 #### 2. Gather Your Tools
-Install your Python powerups:
+Install your Python powerups(Might take some time dont exit):
 ```bash
 pip install -r requirements.txt
 pip install numpy==1.24.3
