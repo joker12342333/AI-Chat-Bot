@@ -65,7 +65,7 @@ Wire everything together:
 - Set up API communication
 - Handle those responses like a pro
 
-#### 6. Fire It Up!
+#### 6. Run(Everything should be run in 'src' folder for frontend)
 Let's see it in action:
 ```bash
 npm run dev
@@ -74,7 +74,7 @@ npm run dev
 ### Backend Adventure 🏗️
 
 #### 1. Create Your Environment
-Set up your Python workspace:
+Set up your Python workspace(Enter "backend" folder):
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
