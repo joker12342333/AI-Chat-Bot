@@ -84,6 +84,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install your Python powerups:
 ```bash
 pip install -r requirements.txt
+pip install numpy==1.24.3
 ```
 
 #### 3. Build the Brain 🧠
