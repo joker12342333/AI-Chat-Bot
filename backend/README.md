@@ -12,15 +12,21 @@ Set Virtual enivronment, open cmd, run
 
 ```bash
 python -m venv env
-source env/bin/activate 
+source venv\Scripts\activate 
 ```
 
-### 2. Install the packages
+### 2.1 Install the packages
 
 All the required packages are listed in requirements.txt. Install them with:
 
 ```bash
 pip install -r requirements.txt
+```
+Wait for 5-10  minutes. Might take time
+
+### 2.2. Install appropriate numpy
+```bash
+pip install numpy==1.24.3
 ```
 
 ### 3. Run 
